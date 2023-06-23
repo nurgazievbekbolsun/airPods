@@ -1,0 +1,308 @@
+@media (max-width:1440px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+
+}
+@media(max-width:1024px){
+
+}
+@media(max-width:992px){
+}
+@media(max-width:768px){
+
+    .header-nav a {
+        padding: 0 18px;
+        font-size: 10px;
+    }
+    #aside{
+display: block;
+    }
+    .hero {
+        padding-top: 10px;
+    }
+    .btn {
+        padding: 6px 34px;
+        background: goldenrod;
+        border-radius: 12px;
+        transition: .4s;
+        font-weight: 700;
+        font-size: 15px;
+        color: #FFFFFF;
+        margin: 44px 0 29px 0;
+    }
+    .hero-text h1 {
+        font-size: 30px;
+        width: 180px;
+    }
+    .hero-text p {
+        font-size: 14px;
+        width: 230px;
+    }
+    .line {
+        height: 70px;
+        width: 3px;
+        margin: 0 10px;
+    }
+    .hero img {
+        width: 300px;
+        padding: 0 0 0 40px;
+    }
+    .video1 {
+        width: 30px;
+        height: 30px;
+    }
+    .video3 {
+        width: 10px;
+        height: 10px;
+    }
+    .video2 {
+        width: 20px;
+        height: 20px;
+    }
+    .video3 ion-icon {
+        color: #ff7300;
+        font-size: 10px;
+    }
+    .header-tel a {
+        font-weight: 600;
+        font-size: 12px;
+    }
+    .header-tel ion-icon {
+        font-size: 15px;
+        color: #167ac6;
+    }
+    .header-logo img {
+        width: 15px;
+    }
+    .header-logo p {
+        font-size: 12px;
+    }
+                /*    what*/
+    .what h1 {
+        font-size: 22px;
+        padding: 115px 0 66px 0;
+    }
+    .image {
+        position: absolute;
+        top: -15px;
+        left: 40px;
+        width: 120px;
+    }
+    .image2 {
+        width: 120px;
+        position: absolute;
+        right: 35px;
+        bottom: 1px;
+    }
+    .what-group div p {
+        color: #FFFFFF;
+        font-size: 9px;
+        width: 140px;
+        text-align: center;
+    }
+    .img-4 {
+        position: absolute;
+        padding: 0 0 20px 0;
+        z-index: 4;
+        width: 80px;
+    }
+    .img-3 {
+        position: absolute;
+        padding: 0 0 20px 0;
+        z-index: 3;
+        width: 60px;
+    }
+    .img-2 {
+        position: absolute;
+        padding: 0 0 20px 0;
+        z-index: 2;
+        width: 80px;
+    }
+    .img-1 {
+        position: absolute;
+        padding: 0 0 20px 0;
+        z-index: 1;
+        width: 100px;
+    }
+    .imgdiv {
+        width: 100px;
+        padding: 25px 0 10px 0;
+    }
+    .texnikal h1 {
+        font-size: 25px;
+        padding: 128px 0 116px 0;
+    }
+    .texnikal-content p {
+        font-size: 15px;
+        line-height: 20px;
+        width: 300px;
+    }
+    .krug {
+        width: 42px;
+        height: 42px;
+        font-size: 15px;
+        margin: 0 0 0 10px;
+        position: relative;
+    }
+    .texnikal-content span {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 14px;
+        color: #FFFFFF;
+        width: 60px;
+    }
+    .texnikal-content img {
+        width: 200px;
+    }
+    .group div p {
+        font-size: 10px;
+        width: 250px;
+        padding: 20px 0 150px 0;
+    }
+    .group-img {
+        width: 140px;
+    }
+    .group-img1 {
+        width: 70px;
+    }
+    .model-content img {
+        padding: 46px 0 24px 0;
+        margin: 0 auto;
+        width: 90px;
+    }
+    .model-content button {
+        background: #F7A325;
+        padding: 10px 17px;
+        border-radius: 12px;
+        color: white;
+        font-weight: 500;
+        font-size: 10px;
+        transition: .4s;
+        border: 2px solid #F7A325;
+    }
+    .model-line p {
+        width: 213px;
+        text-align: start;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 15px;
+        color: #0c0c0c;
+        margin: 0 auto;
+        padding: 28px 0 27px 0;
+    }
+    .line2 {
+        width: 3px;
+        height: 100px;
+        background: #F7A325;
+        margin: 30px 10px 30px 20px;
+    }
+    .model-content {
+        background: #FFFFFF;
+        border: 2px solid rgba(255, 255, 255, 0.2);
+        border-radius: 27px;
+        text-align: center;
+        width: 230px;
+        height: 390px;
+        margin: 0 0 0 30px;
+    }
+    .cuashin h1 {
+        font-size: 25px;
+        padding: 138px 0 0 0;
+    }
+    .imgg {
+        width: 330px;
+    }
+    .cuashin-group div input {
+        padding: 8px 102px 8px 12px;
+        border: 1px solid #ffffff;
+        border-radius: 10px;
+        background: transparent;
+        margin: 3px 0;
+        outline: none;
+        color: #FFFFFF;
+    }
+    .cuashin-group div button {
+        padding: 8px 106px;
+        border-radius: 10px;
+        background: #F7A325;
+        color: white;
+        margin: 3px 0 10px 0;
+    }
+    .cuashin-group div p {
+        font-size: 10px;
+    }
+    .link a {
+        font-weight: 500;
+        font-size: 12px;
+        color: #000000;
+        padding-left: 35px;
+    }
+    .icons ion-icon {
+        padding: 0 10px;
+        font-size: 15px;
+    }
+}
+@media(max-width:576px){}
+@media(max-width:450px){}
+@media(max-width:425px){}
+@media(max-width:415px){}
+@media(max-width:380px){}
+@media(max-width:350px){}
+@media(max-width:320px){}
+/*@media(min-width:320px) and (max-width:415px){*/
+/*    .hero-text h1 {*/
+/*        font-size: 15px;*/
+/*        width: 150px;*/
+/*    }*/
+/*    .hero-text p {*/
+/*        font-size: 8px;*/
+/*        width: 120px;*/
+/*    }*/
+/*    .line {*/
+/*        height: 40px;*/
+/*        width: 2px;*/
+/*        margin: 0 5px;*/
+/*    }*/
+/*    .hero img {*/
+/*        width: 150px;*/
+/*        padding-bottom: 200px;*/
+/*    }*/
+/*    .video1 {*/
+/*        width: 30px;*/
+/*        height: 30px;*/
+/*    }*/
+/*    .video2 {*/
+/*        width: 20px;*/
+/*        height: 20px;*/
+/*    }*/
+/*    .video p {*/
+/*        font-weight: 100;*/
+/*        font-size: 10px;*/
+/*    }*/
+/*    .video3 {*/
+/*        width: 10px;*/
+/*        height: 10px;*/
+/*    }*/
+/*    .btn {*/
+/*        padding: 2px 25px;*/
+/*        border-radius: 8px;*/
+/*        font-weight: 500;*/
+/*        font-size: 14px;*/
+/*        margin: 20px 0 20px 0;*/
+/*    }*/
+/*    .hero-content {*/
+/*        padding-top: 20px;*/
+/*    }*/
+/*    .hero {*/
+/*        display: flex;*/
+/*        align-items: start;*/
+/*        justify-content: start;*/
+/*        padding-top: 59px;*/
+/*    }*/
+/*    .hero {*/
+/*         padding-top: 5px;*/
+/*    }*/
+/*}*/
